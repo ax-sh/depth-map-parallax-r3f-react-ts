@@ -2,6 +2,20 @@
 
 [ MiDaS 3](https://github.com/isl-org/MiDaS)
 
+# You can use colab for generating the depthmap for your own image
+
+[colab](https://colab.research.google.com/drive/1FwN8a1UVVts_nQ5oJEkg1dhKbpH_HJXB?usp=sharing)
+
+# Run
+
+```shell
+pnpm dev
+```
+
+## todo
+
+[] - fix the aspect ratio to neatly fit the window ```
+
 <!-- # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
